@@ -1,2 +1,8 @@
-# web_programming
-web_programming django, spring etc
+Web_programming
+===============
+프레임워크를 통한 웹사이트 구현
+-----------------------------
+- 1학기 : Django를 통한 자신이 만들고 싶은 웹페이지 구현
+- 2학기 : Spring을 통한 웹페이지 구현
+
+각자 web_programming을 Fork한후 자신의 폴더를 생성하여 앞으로 나가는 과제나 실습을 Git에 올리고 Pull Request를 하시면 업로드하여 다른 동아리원들도 볼수있게 업로드 하겠습니다.
