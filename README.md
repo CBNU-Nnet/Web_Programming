@@ -14,28 +14,28 @@ Web_programming
 OT진행(6시 S4-1 스터디룸) - 앞으로의 커리큘럼 및 만나는 시간조정 만들어 보고 싶은 웹 서비스 생각
 
   과제 : 파이썬, vscode, codeacademy에서 html 100%채워오기
-  
-
+</br>  
+</br>
 * 2019/04/02
 웹 개론 진행(7시 신관 도서관 스터디룸) - request, response / host, client / post와 get차이 / front-end, back-end / Framework
 
   과제 : codeacademy에서 CSS 50% 채워오기
   </br>
-
+</br>
 * 2019/04/11
 신수웅's Git 사용법 강의(7시 S4-1 106호) - 질문하는 요령, git이란 무엇인가, git을 사용하면서 이용하게 될 명령어, git 협업 진행 과정설명
 
-  과제 : 위와 동일</br>
-  
-
+  과제 : 위와 동일
+  </br>
+  </br>
 * 2019/04/13,14
 html과 CSS공부하면서 모르는 부분 공유, 추가적으로 전공 모르는 부분 질문 및 답변, 개인 폴더 생성 - 이제 개인 성과물 업로드 예정
 </br>
-
+</br>
 * 2019/04/15 ~ 2019/04/29
 시험기간엔 시험에 집중합시다.
 </br>
-
+</br>
 * 2019/05/ 첫째주
 html, CSS 요약 및 정리, 실습 / 어려워 하는 인원들을 위한 종합적 정리 수업 예정, bootstrap을 이용한 페이지 꾸미기을 
 git을 이용한 clone, remote, branch생성, add, commit, push, pull request 사용법 익히기
@@ -43,7 +43,8 @@ git을 이용한 clone, remote, branch생성, add, commit, push, pull request �
   실습 : 실제로 많이 쓰이는 html과 CSS문법을 위주로 사용하며 네스트넷 페이지 따라하기 </br>
   과제 : html과 CSS를 이용하여 static 자기소개 페이지 만들기
  </br>
-
+</br>
 * 2019/05/ 둘째주
 python 기본적 문법 및 사용법 / 1주 3시간 동안 문법에 관해 진행 후 부족한 경우 다음주에 걸쳐 추가적 문법 수업 예정
+</br>
 </br>
