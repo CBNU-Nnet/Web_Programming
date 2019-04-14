@@ -42,7 +42,7 @@ html과 CSS공부하면서 모르는 부분 공유, 추가적으로 전공 모�
 </br>
 
 * 2019/05/ 첫째주
-html, CSS 요약 및 정리, 실습 / 어려워 하는 인원들을 위한 종합적 정리 수업 예정, bootstrap을 이용한 페이지 꾸미기을 
+html, CSS 요약 및 정리, 실습 / 어려워 하는 인원들을 위한 종합적 정리 수업 예정, bootstrap을 이용한 페이지 꾸미기</br> 
 git을 이용한 clone, remote, branch생성, add, commit, push, pull request 사용법 익히기
 
   실습 : 실제로 많이 쓰이는 html과 CSS문법을 위주로 사용하며 네스트넷 페이지 따라하기 </br>
